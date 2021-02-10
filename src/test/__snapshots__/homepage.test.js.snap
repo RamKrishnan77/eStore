@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render homepage component 1`] = `
+<div
+  className="panel1"
+>
+  <Image
+    fluid={true}
+    rounded={false}
+    roundedCircle={false}
+    src="https://i.pinimg.com/originals/fa/45/96/fa4596ad9a9d39901eeb455ed4f74e44.jpg"
+    thumbnail={false}
+  />
+  <Image
+    fluid={true}
+    rounded={false}
+    roundedCircle={false}
+    src="https://s3.amazonaws.com/nikeinc/assets/91660/Nike-Air-Zoom-Pulse_2_native_1600.jpg?1573245547"
+    thumbnail={false}
+  />
+  <Image
+    fluid={true}
+    rounded={false}
+    roundedCircle={false}
+    src="https://s3.amazonaws.com/nikeinc/assets/93455/nike-air-max-2090-4_rectangle_1600.jpg?1579197133"
+    thumbnail={false}
+  />
+</div>
+`;

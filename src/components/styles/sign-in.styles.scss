@@ -1,0 +1,30 @@
+.sign-in {
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+  // background-color: aquamarine;
+
+  .title {
+    margin: 10px 0;
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 900px) {
+  .sign-in {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+  .buttons {
+    display: flex;
+    width: 30px;
+    justify-content: space-between;
+  }
+}

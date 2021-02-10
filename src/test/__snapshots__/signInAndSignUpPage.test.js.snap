@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render SignInAndSignUpPage 1`] = `
+<div
+  className="sign-in-and-sign-up"
+>
+  <withRouter(SignIn) />
+  <SignUp />
+</div>
+`;

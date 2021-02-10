@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "name": "Air Zoom Pegasus 'Fast City'",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/387e12da-1a28-44a7-be1a-26bcffe99275/air-zoom-pegasus-fast-city-running-shoe-t67tQG.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/55a5adbb-e28b-470e-8705-107b8c84c8a7/air-zoom-pegasus-fast-city-running-shoe-t67tQG.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4fe65b5e-b835-49ce-9e47-a25db29bbb87/air-zoom-pegasus-fast-city-running-shoe-t67tQG.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a188eb24-baed-4ccd-a40a-7b22c0ec901d/air-zoom-pegasus-fast-city-running-shoe-t67tQG.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/38d69310-6591-46d0-bd2c-57766d2787ef/air-zoom-pegasus-fast-city-running-shoe-t67tQG.jpg",
+      "gender": "Men",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "rating": 3.7,
+      "price": 11500,
+      "type": "Running",
+      "quantity": 100,
+      "count": 3200,
+      "id": 11
+    },
+    {
+      "name": "Revolution 5 EXT",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9a8fe7cb-6ae5-4c02-831c-9e28d56029c0/revolution-5-ext-running-shoe-2H8c5P.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/06d7f0ab-2f44-438b-890b-5591b23e3f6b/revolution-5-ext-running-shoe-2H8c5P.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/371e3cfb-81ec-440e-9988-1983d4bd68e2/revolution-5-ext-running-shoe-2H8c5P.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f0c771fe-3b8c-4e48-8648-5847a04ef7d8/revolution-5-ext-running-shoe-2H8c5P.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a1557a3e-8396-4e42-91d7-5ccd3ef878ce/revolution-5-ext-running-shoe-2H8c5P.jpg",
+      "gender": "Men",
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.5,
+      "price": 3500,
+      "type": "Running",
+      "quantity": 100,
+      "count": 6800,
+      "id": 12
+    },
+    {
+      "name": "Zoom Pegasus Turbo 2",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6a46f66f-3cf9-40e1-bbbf-77435ab48150/zoom-pegasus-turbo-2-running-shoe-L9mVGn.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33ed9a14-d025-43a0-81a1-8801adb01583/zoom-pegasus-turbo-2-running-shoe-L9mVGn.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e5994dd1-3459-444c-9dd5-340917578d2c/zoom-pegasus-turbo-2-running-shoe-L9mVGn.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/55bc6f93-be9c-4294-97ce-7affa0af833e/zoom-pegasus-turbo-2-running-shoe-L9mVGn.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/38fc5c8a-0e88-41f4-8f89-648500bde4fd/zoom-pegasus-turbo-2-running-shoe-L9mVGn.jpg",
+      "gender": "Men",
+      "sizes": [
+        "10",
+        "11",
+        "12"
+      ],
+      "rating": 4.8,
+      "price": 15000,
+      "type": "Running",
+      "quantity": 100,
+      "count": 7700,
+      "id": 13
+    },
+    {
+      "name": "Free RN 5.0 2020",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-1d2b2764-7f9a-45d3-9e10-ac274d917fef/free-rn-5-2020-running-shoe-R1F4ML.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-561dfc71-48af-4907-a352-044b2662a55e/free-rn-5-2020-running-shoe-R1F4ML.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d12202a5-baa3-45f8-918e-b570648cef3e/free-rn-5-2020-running-shoe-R1F4ML.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i1-0a0651c6-6e13-412e-a052-58dbcf9a0e9e/free-rn-5-2020-running-shoe-R1F4ML.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ff0cc85d-44c0-4ded-945f-3c82a2e46e6f/free-rn-5-2020-running-shoe-R1F4ML.jpg",
+      "gender": "Men",
+      "sizes": [
+        "7",
+        "8",
+        "9"
+      ],
+      "rating": 5,
+      "price": 7999,
+      "type": "Running",
+      "quantity": 100,
+      "count": 9000,
+      "id": 14
+    },
+    {
+      "name": "Phantom GT Elite Dynamic Fit FG",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0ad886bd-c1d0-4133-b82b-b3703c401857/phantom-gt-elite-dynamic-fit-fg-football-boot-GQgRv2.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ec857395-1f82-40b5-93be-83b7c0eeb283/phantom-gt-elite-dynamic-fit-fg-football-boot-GQgRv2.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/195f1105-4aba-459d-8b4d-f8cbc6ae189c/phantom-gt-elite-dynamic-fit-fg-football-boot-GQgRv2.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d8ce9ba3-8fde-4edd-a12c-1c9b11b973cf/phantom-gt-elite-dynamic-fit-fg-football-boot-GQgRv2.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a8462c47-e7b8-447a-a6a5-7e56e9f72ec2/phantom-gt-elite-dynamic-fit-fg-football-boot-GQgRv2.jpg",
+      "gender": "Men",
+      "sizes": [
+        "9",
+        "11"
+      ],
+      "rating": 4.5,
+      "price": 21000,
+      "type": "Football",
+      "quantity": 100,
+      "count": 1000,
+      "id": 15
+    },
+    {
+      "name": "Blazer Mid '77 Infinite",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a4864e44-6824-4363-8e92-717dde390eaa/blazer-mid-77-infinite-shoe-RF4jbF.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6f1cb223-960b-4f5b-9371-6bdb2bbe5433/blazer-mid-77-infinite-shoe-RF4jbF.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c8a6f089-3757-4faa-b2bc-e29dd110f787/blazer-mid-77-infinite-shoe-RF4jbF.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b62ab424-b495-41ef-b272-d092c60cc2d0/blazer-mid-77-infinite-shoe-RF4jbF.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/71294b61-1ffb-4cf5-9115-e1567833c332/blazer-mid-77-infinite-shoe-RF4jbF.jpg",
+      "gender": "Women",
+      "sizes": [
+        "9",
+        "8",
+        "7"
+      ],
+      "rating": 4.8,
+      "price": 7999,
+      "type": "Casual",
+      "quantity": 100,
+      "count": 3400,
+      "id": 16
+    },
+    {
+      "name": "Waffle Racer Crater",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/250f1f74-e54b-4380-b9a3-a4f92521186c/waffle-racer-crater-shoe-jtwH36.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d2d84d6-6c36-4ad0-b0b9-2a0fb4140ca1/waffle-racer-crater-shoe-jtwH36.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ffc8d88c-aa90-40ad-b4ce-25f921e2da5f/waffle-racer-crater-shoe-jtwH36.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3a32fa9e-1f68-494a-9094-71859b648bf3/waffle-racer-crater-shoe-jtwH36.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e88b0af6-ac71-4565-93aa-d25b15b06522/waffle-racer-crater-shoe-jtwH36.jpg",
+      "gender": "Women",
+      "sizes": [
+        "7",
+        "6",
+        "8"
+      ],
+      "rating": 5,
+      "price": 8250,
+      "type": "Running",
+      "quantity": 100,
+      "count": 5500,
+      "id": 17
+    },
+    {
+      "name": "Air Force 1 Shadow",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b9bdf5fb-d67a-49ab-97d1-49d4c7b0e112/air-force-1-shadow-shoe-klCJXd.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dd2c1f63-133f-4de0-8997-c260ea0a6570/air-force-1-shadow-shoe-klCJXd.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/cf18dd9e-4c99-434e-8d36-45add1af7ec8/air-force-1-shadow-shoe-klCJXd.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/cdb64f83-bbd3-4175-b075-e315f0e83157/air-force-1-shadow-shoe-klCJXd.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/7fa821bc-d352-4ef8-9dd7-51335bb1a095/air-force-1-shadow-shoe-klCJXd.jpg",
+      "gender": "Women",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "rating": 4.5,
+      "price": 9250,
+      "type": "Sneaker",
+      "quantity": 100,
+      "count": 3000,
+      "id": 18
+    },
+    {
+      "name": "Air Max 2090",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c6bed188-e186-43ef-bc41-4466193c9e16/air-max-2090-shoe-mt7qbV.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/aad5ed2f-00c7-4644-854c-547295c668e6/air-max-2090-shoe-mt7qbV.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/92e69683-aa98-4bd2-9892-8c04d7a44dd1/air-max-2090-shoe-mt7qbV.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/eb27a588-77d2-40bb-878e-e281a63773ef/air-max-2090-shoe-mt7qbV.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/82f0d3bc-2c2c-4374-8e2a-943a958c644d/air-max-2090-shoe-mt7qbV.jpg",
+      "gender": "Women",
+      "sizes": [
+        "10",
+        "8",
+        "9"
+      ],
+      "rating": 4.8,
+      "price": 11999,
+      "type": "Running",
+      "quantity": 100,
+      "count": 2000,
+      "id": 19
+    },
+    {
+      "name": "Zoom Double-Stacked",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d3cf5c9c-50e9-40be-920e-4b872ceaccbf/zoom-double-stacked-shoe-kJDzhQ.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/115b4dc1-7fd5-4bee-9bc1-f7689289b1ae/zoom-double-stacked-shoe-kJDzhQ.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f1a1ceb5-04ec-4f24-882c-df86698bebb7/zoom-double-stacked-shoe-kJDzhQ.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/186bfa58-a774-4eae-8f3b-c162a0910cae/zoom-double-stacked-shoe-kJDzhQ.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e8d85e9d-d20b-4f53-81f0-0d3305c8b413/zoom-double-stacked-shoe-kJDzhQ.jpg",
+      "gender": "Women",
+      "sizes": [
+        "7",
+        "8"
+      ],
+      "rating": 4.7,
+      "price": 11999,
+      "type": "Casual",
+      "quantity": 100,
+      "count": 8000,
+      "id": 20
+    },
+    {
+      "name": "Vista Lite",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/133e7d5e-cbb0-48d8-8ac0-4b2a93d2b54b/vista-lite-shoe-m10k0k.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/756db617-2289-4393-9b90-456df54ba2ce/vista-lite-shoe-m10k0k.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/40c34c66-42bd-4308-ad03-90bdab33e39a/vista-lite-shoe-m10k0k.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/02cedcb7-620a-458f-ac3d-bc0c2cb67192/vista-lite-shoe-m10k0k.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f494eb64-e317-418a-8f40-ca226633fad8/vista-lite-shoe-m10k0k.jpg",
+      "gender": "Women",
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.5,
+      "price": 1000,
+      "type": "Running",
+      "quantity": 100,
+      "count": 7700,
+      "id": 21
+    },
+    {
+      "name": "Waffle Racer 2X",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/05aa5882-1a93-40a8-9979-dd42b08ff6de/waffle-racer-2x-shoe-5GPX17.jpg",
+      "img1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d736365d-b60d-4e58-862f-2832c3c55537/waffle-racer-2x-shoe-5GPX17.jpg",
+      "img2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2ec62879-6521-427f-9921-5660c3d0efaf/waffle-racer-2x-shoe-5GPX17.jpg",
+      "img3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/20eefe67-31d6-4aed-9455-25c88f249cd1/waffle-racer-2x-shoe-5GPX17.jpg",
+      "img4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3e9f827e-2581-4ffc-9467-3a3530b3ebde/waffle-racer-2x-shoe-5GPX17.jpg",
+      "gender": "Women",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "rating": 4.7,
+      "price": 5999,
+      "type": "Casual",
+      "quantity": 100,
+      "count": 3602,
+      "id": 22
+    }
+  ],
+  "user": {
+    "given_name": "Ramprasad",
+    "family_name": "Ramakrishnan",
+    "nickname": "ramprasadramakrishnan",
+    "name": "Ramprasad Ramakrishnan",
+    "picture": "https://lh5.googleusercontent.com/-UB_ta0M6L0M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcq7eO5N5w6CN6CxNX3-VLJC1NYQ/s96-c/photo.jpg",
+    "locale": "en",
+    "updated_at": "2020-11-10T10:13:25.450Z",
+    "email": "ramprasadramakrishnan@gmail.com",
+    "email_verified": true,
+    "sub": "google-oauth2|100968626160220851538"
+  }
+}
