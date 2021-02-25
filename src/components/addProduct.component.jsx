@@ -3,6 +3,7 @@ import { Formik, Field, Form } from 'formik'
 import { addProduct } from '../redux/product/productActions'
 import { connect } from 'react-redux'
 import { Prompt, withRouter } from 'react-router-dom'
+import { v4 as uuidv4 } from 'uuid'
 import '../App.css'
 
 const initialValues = {
@@ -12,13 +13,14 @@ const initialValues = {
   img2: '',
   img3: '',
   img4: '',
-  gender: '',
-  sizes: [],
-  rating: '',
-  price: '',
-  type: '',
-  quantity: '',
+  gender: 'Men',
+  sizes: ['7'],
+  rating: Math.floor(Math.random() * (5 - 1)) + 1,
+  price: Math.floor(Math.random() * (10000 - 3000)) + 3000,
+  type: 'Sneakers',
+  quantity: Math.floor(Math.random() * (10000 - 3000)) + 3000,
   count: Math.floor(Math.random() * (10000 - 3000)) + 3000,
+  id: '',
 }
 
 const validate = (values) => {
@@ -59,11 +61,6 @@ const validate = (values) => {
   return errors
 }
 
-const mapStateToProps = (state) => ({
-  products: state.products.items,
-  // newProduct: state.products.item
-})
-
 class AddProduct extends React.Component {
   constructor(props) {
     super(props)
@@ -71,13 +68,15 @@ class AddProduct extends React.Component {
     this.onSubmit = this.onSubmit.bind(this)
   }
 
-  onSubmit(data, { setSubmitting, resetForm }) {
-    setSubmitting(true)
-    setSubmitting(false)
-    resetForm(true)
-
+  async onSubmit(data, { setSubmitting, resetForm }) {
     console.log(data)
-    this.props.addProduct(data)
+    data.id = uuidv4()
+    console.log('why not navigating')
+
+    addProduct(data)
+
+    resetForm(true)
+    this.props.history.push('/products')
   }
 
   render() {
@@ -291,4 +290,4 @@ class AddProduct extends React.Component {
   }
 }
 
-export default connect(mapStateToProps, { addProduct })(withRouter(AddProduct))
+export default withRouter(AddProduct)

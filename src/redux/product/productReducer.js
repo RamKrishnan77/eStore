@@ -1,18 +1,23 @@
-import {ADD_PRODUCT, GET_ALL_PRODUCTS} from './productTypes'
+import { ADD_PRODUCT, GET_ALL_PRODUCTS, DELETE_PRODUCT } from './productTypes'
 // import { addProduct, getAllProducts } from './productActions'
 
-const initialState = {
-    items: [],
-    item: {}
-}
+const initialState = { data: [] }
 
 const productReducer = (state = initialState, action) => {
-    switch(action.type) {
-        case ADD_PRODUCT : return {...state, item: action.payload}
-        case GET_ALL_PRODUCTS : return {...state, items: action.payload}
-        case 'DELETE_PRODUCT': return {...state, item:action.payload}
-        default : return state
+  switch (action.type) {
+    case ADD_PRODUCT: {
+      let { data } = state
+      data.push(action.payload)
+      return { data }
     }
+    case GET_ALL_PRODUCTS:
+      return action.payload
+    case DELETE_PRODUCT:
+      let { data } = state
+      return { data: data.filter((item) => item.id != action.payload) }
+    default:
+      return state
+  }
 }
 
 export default productReducer

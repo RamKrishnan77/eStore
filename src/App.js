@@ -19,13 +19,18 @@ import { withRouter } from 'react-router-dom'
 import { connect } from 'react-redux'
 import { getAllProducts } from './redux/product/productActions'
 import { getAllUsers } from './redux/user/user.actions'
-import { auth, createUserProfileDocument } from './firebase/firebase.utils'
+import {
+  auth,
+  createUserProfileDocument,
+  firestore,
+} from './firebase/firebase.utils'
 
 class App extends React.Component {
-  constructor({ props }) {
-    super({ props })
+  constructor(props) {
+    super(props)
     this.state = {
       currentUser: null,
+      productList: [],
     }
   }
 
@@ -33,8 +38,9 @@ class App extends React.Component {
 
   async componentDidMount() {
     await this.props.getAllProducts()
-    await this.props.getAllUsers()
-
+    this.setState({ productList: this.props.products })
+    console.log('hello')
+    console.log(this.props.products)
     this.unsubscribeFromAuth = auth.onAuthStateChanged(async (userAuth) => {
       if (userAuth) {
         const userRef = await createUserProfileDocument(userAuth)
@@ -46,13 +52,20 @@ class App extends React.Component {
               ...snapShot.data(),
             },
           })
-          console.log(this.state)
+          console.log(this.state.productList)
         })
       } else {
         await this.setState({ currentUser: userAuth })
+        console.log(userAuth)
       }
     })
   }
+
+  // componentDidUpdate() {
+  //   if (this.props.products.data !== this.state.productList.data) {
+  //     this.props.getAllProducts()
+  //   }
+  // }
 
   componentWillUnmount() {
     this.unsubscribeFromAuth()
@@ -115,7 +128,6 @@ class App extends React.Component {
                     </Link>
                   </Nav.Link>
                 )}
-                {console.log(this.state.currentUser)}
               </Nav>
             </Navbar.Collapse>
           </Navbar>
@@ -148,9 +160,7 @@ class App extends React.Component {
 }
 
 const mapStateToProps = (state) => ({
-  products: state.products.items,
-  myCurrentUser: state.user.myCurrentUser,
-  // newProduct: state.products.item
+  products: state.products,
 })
 
 const mapDispatchToProps = (dispatch) => ({
